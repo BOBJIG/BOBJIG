@@ -1,0 +1,11 @@
+C:\Users\sarathga\source\repos\FirstTestProject\FirstTestProject\bin\Debug\netcoreapp2.1\FirstTestProject.deps.json
+C:\Users\sarathga\source\repos\FirstTestProject\FirstTestProject\bin\Debug\netcoreapp2.1\FirstTestProject.runtimeconfig.json
+C:\Users\sarathga\source\repos\FirstTestProject\FirstTestProject\bin\Debug\netcoreapp2.1\FirstTestProject.runtimeconfig.dev.json
+C:\Users\sarathga\source\repos\FirstTestProject\FirstTestProject\bin\Debug\netcoreapp2.1\FirstTestProject.dll
+C:\Users\sarathga\source\repos\FirstTestProject\FirstTestProject\bin\Debug\netcoreapp2.1\FirstTestProject.pdb
+C:\Users\sarathga\source\repos\FirstTestProject\FirstTestProject\obj\Debug\netcoreapp2.1\FirstTestProject.csprojAssemblyReference.cache
+C:\Users\sarathga\source\repos\FirstTestProject\FirstTestProject\obj\Debug\netcoreapp2.1\FirstTestProject.csproj.CoreCompileInputs.cache
+C:\Users\sarathga\source\repos\FirstTestProject\FirstTestProject\obj\Debug\netcoreapp2.1\FirstTestProject.AssemblyInfoInputs.cache
+C:\Users\sarathga\source\repos\FirstTestProject\FirstTestProject\obj\Debug\netcoreapp2.1\FirstTestProject.AssemblyInfo.cs
+C:\Users\sarathga\source\repos\FirstTestProject\FirstTestProject\obj\Debug\netcoreapp2.1\FirstTestProject.dll
+C:\Users\sarathga\source\repos\FirstTestProject\FirstTestProject\obj\Debug\netcoreapp2.1\FirstTestProject.pdb
