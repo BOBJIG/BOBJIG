@@ -1,0 +1,17 @@
+c:\users\subho\documents\visual studio 2010\Projects\TryJira\TryJira\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\subho\documents\visual studio 2010\Projects\TryJira\TryJira\bin\Debug\TryJira.exe
+c:\users\subho\documents\visual studio 2010\Projects\TryJira\TryJira\bin\Debug\TryJira.pdb
+c:\users\subho\documents\visual studio 2010\Projects\TryJira\TryJira\obj\x86\Debug\TryJira.exe
+c:\users\subho\documents\visual studio 2010\Projects\TryJira\TryJira\obj\x86\Debug\TryJira.pdb
+C:\Users\Subho\Documents\Visual Studio 2010\Projects\TryJira\TryJira\bin\Debug\TryJira.exe.config
+C:\Users\Subho\Desktop\TryJira\TryJira\bin\Debug\TryJira.exe.config
+C:\Users\Subho\Desktop\TryJira\TryJira\obj\x86\Debug\TryJira.exe
+C:\Users\Subho\Desktop\TryJira\TryJira\obj\x86\Debug\TryJira.pdb
+C:\Users\Subho\Desktop\TryJira\TryJira\bin\Debug\TryJira.exe
+C:\Users\Subho\Desktop\TryJira\TryJira\bin\Debug\TryJira.pdb
+C:\Users\Subho\Desktop\TryJira\TryJira\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sarathg\Desktop\TryJira\TryJira\bin\Debug\TryJira.exe.config
+C:\Users\sarathg\Desktop\TryJira\TryJira\obj\x86\Debug\TryJira.exe
+C:\Users\sarathg\Desktop\TryJira\TryJira\obj\x86\Debug\TryJira.pdb
+C:\Users\sarathg\Desktop\TryJira\TryJira\bin\Debug\TryJira.exe
+C:\Users\sarathg\Desktop\TryJira\TryJira\bin\Debug\TryJira.pdb
