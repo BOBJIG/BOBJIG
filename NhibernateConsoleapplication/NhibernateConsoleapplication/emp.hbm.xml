@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="NhibernateConsoleapplication"
+                   namespace="NhibernateConsoleapplication">
+
+  <class name="Emp">
+    <id name ="Emp_id">
+      <generator class="assigned"/>
+    </id>
+    <!--<property name ="Empid"/>-->
+    <property name ="Empname"/>
+    
+    <component name="FullAdress">
+      <property name="Empadress"/>
+      <property name ="Emplocation"/>
+    </component>
+    
+    <set name="OrderInformation" table="`Orders`" cascade="all">
+      <key column="Empid"/>
+      <one-to-many class="Orders"/>      
+    </set>
+    
+  </class>
+
+</hibernate-mapping>

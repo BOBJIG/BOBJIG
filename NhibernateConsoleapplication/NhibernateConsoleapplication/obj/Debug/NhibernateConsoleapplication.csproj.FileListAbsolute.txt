@@ -1,0 +1,11 @@
+c:\users\sarathg\documents\visual studio 2012\Projects\NhibernateConsoleapplication\NhibernateConsoleapplication\bin\Debug\NhibernateConsoleapplication.exe.config
+c:\users\sarathg\documents\visual studio 2012\Projects\NhibernateConsoleapplication\NhibernateConsoleapplication\bin\Debug\NhibernateConsoleapplication.exe
+c:\users\sarathg\documents\visual studio 2012\Projects\NhibernateConsoleapplication\NhibernateConsoleapplication\bin\Debug\NhibernateConsoleapplication.pdb
+c:\users\sarathg\documents\visual studio 2012\Projects\NhibernateConsoleapplication\NhibernateConsoleapplication\bin\Debug\Iesi.Collections.dll
+c:\users\sarathg\documents\visual studio 2012\Projects\NhibernateConsoleapplication\NhibernateConsoleapplication\bin\Debug\NHibernate.dll
+c:\users\sarathg\documents\visual studio 2012\Projects\NhibernateConsoleapplication\NhibernateConsoleapplication\bin\Debug\Iesi.Collections.xml
+c:\users\sarathg\documents\visual studio 2012\Projects\NhibernateConsoleapplication\NhibernateConsoleapplication\bin\Debug\NHibernate.xml
+c:\users\sarathg\documents\visual studio 2012\Projects\NhibernateConsoleapplication\NhibernateConsoleapplication\obj\Debug\NhibernateConsoleapplication.exe
+c:\users\sarathg\documents\visual studio 2012\Projects\NhibernateConsoleapplication\NhibernateConsoleapplication\obj\Debug\NhibernateConsoleapplication.pdb
+C:\Users\sarathg\Documents\Visual Studio 2012\Projects\NhibernateConsoleapplication\NhibernateConsoleapplication\obj\Debug\NhibernateConsoleapplication.csprojResolveAssemblyReference.cache
+C:\Users\sarathg\Documents\Visual Studio 2012\Projects\NhibernateConsoleapplication\NhibernateConsoleapplication\bin\Debug\Oracle.DataAccess.dll
